@@ -1,0 +1,10 @@
+===> 2022-11-08 23:06:50.561 +05:30 [Information] HttpLogMiddleware.cs::Invoke(21) Request - http localhost:5000/api/health  .
+===> 2022-11-08 23:06:50.640 +05:30 [Information] HttpLogMiddleware.cs::Invoke(37) Response - 307: .
+===> 2022-11-08 23:07:25.159 +05:30 [Information] HttpLogMiddleware.cs::Invoke(21) Request - http localhost:5000/api/health  .
+===> 2022-11-08 23:07:25.159 +05:30 [Information] HttpLogMiddleware.cs::Invoke(37) Response - 307: .
+===> 2022-11-08 23:07:31.303 +05:30 [Information] HttpLogMiddleware.cs::Invoke(21) Request - https localhost:5001/api/health  .
+===> 2022-11-08 23:07:31.383 +05:30 [Information] HttpLogMiddleware.cs::Invoke(37) Response - 200: Healthy.
+===> 2022-11-08 23:07:31.609 +05:30 [Information] HttpLogMiddleware.cs::Invoke(21) Request - https localhost:5001/favicon.ico  .
+===> 2022-11-08 23:07:31.610 +05:30 [Information] HttpLogMiddleware.cs::Invoke(37) Response - 404: .
+===> 2022-11-08 23:09:54.278 +05:30 [Information] HttpLogMiddleware.cs::Invoke(21) Request - https localhost:5001/api/health  .
+===> 2022-11-08 23:09:54.382 +05:30 [Information] HttpLogMiddleware.cs::Invoke(37) Response - 200: Healthy.
